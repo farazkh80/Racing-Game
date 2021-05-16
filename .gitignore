@@ -9,6 +9,9 @@
 *.user
 *.userosscache
 *.sln.docstates
+Racing-Game.vcxproj.filters
+Racing-Game.sln
+Racing-Game.vcxproj.filters
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
